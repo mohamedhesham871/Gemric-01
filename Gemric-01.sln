@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35303.130
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gemric-01", "Gemric-01.csproj", "{21178AE1-9085-490C-A22B-E9D16ABA1676}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{21178AE1-9085-490C-A22B-E9D16ABA1676}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21178AE1-9085-490C-A22B-E9D16ABA1676}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21178AE1-9085-490C-A22B-E9D16ABA1676}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21178AE1-9085-490C-A22B-E9D16ABA1676}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C9B5D220-1CB6-41B2-A360-A3E9B0AE6EC9}
+	EndGlobalSection
+EndGlobal
